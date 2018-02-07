@@ -1,1 +1,1 @@
-document.wite("Hello World!");
+document.write("Hello World!");
